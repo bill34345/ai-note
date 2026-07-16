@@ -1,0 +1,3 @@
+# Keep Markdown and configuration diffs stable across Windows computers.
+* text=auto eol=lf
+

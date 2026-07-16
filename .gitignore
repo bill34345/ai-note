@@ -1,0 +1,20 @@
+# Per-machine Codex / LLM Wiki configuration
+.env
+.env.*
+!.env.example
+.manifest.json
+
+# Obsidian window and tab layout is machine-specific
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Local caches and trash
+.obsidian/cache/
+.trash/
+
+# Operating-system and editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.swp
