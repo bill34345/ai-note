@@ -18,3 +18,11 @@ Thumbs.db
 Desktop.ini
 *.tmp
 *.swp
+__pycache__/
+*.py[cod]
+
+# Research packs keep sanitized evidence; local raw material stays untracked
+_research/**/raw/
+_research/**/downloads/
+_research/**/cache/
+_research/**/temp/

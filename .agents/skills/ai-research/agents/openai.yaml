@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Research Desk"
+  short_description: "Research, score, and audit AI topics"
+  default_prompt: "Use $ai-research to investigate this AI topic, audit the evidence, score it, and recommend whether it belongs in the wiki."
